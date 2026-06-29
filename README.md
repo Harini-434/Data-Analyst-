@@ -16,8 +16,7 @@ The objective of this task is to clean and preprocess a raw dataset by identifyi
 
 ## Tools Used
 
-- Python
-- Pandas
+
 - Microsoft Excel (if applicable)
 
 ---
@@ -69,9 +68,8 @@ After completing the cleaning process:
 ```
 Task1/
 │
-├── cleaned_dataset.csv
-├── task1.py
-├── Task1_Report.docx
+├── customer dataset.csv
+├── Interview questions.docx
 └── README.md
 ```
 
